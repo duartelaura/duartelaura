@@ -1,14 +1,15 @@
-<h1 align="center">Hey! I'm Laura Duarte!</h1>
+<h1 align="center">Hello world! I'm Laura Duarte!</h1>
 <p align="center">💻 Estudante de Análise e Desenvolvimento de Sistemas | 🎨 Apaixonada por design, fotos e tecnologia!</p>
 
 ---
 
 ### 🧠 Sobre mim
 - 📍 Moro em Contagem – MG
-- 🎓 Estudante de Sistemas de Informação na PUC Minas – Campus Barreiro
+- 🎓 Estudante de Sistemas de Informação na PUC Minas
 - 🚀 Interesses: desenvolvimento web, cibersegurança, UI/UX e projetos criativos
-- 🌐 Veja meu portfólio: [lauraduarte.netlify.app](https://lauraduarte.netlify.app)
+- 🌐 Veja meu portfólio: [clique aqui!](https://lauraduarte.netlify.app)
 - 🧩 Curiosa, criativa e apaixonada por aprender coisas novas ✨
+- Português/Inglês
 
 ---
 
