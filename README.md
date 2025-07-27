@@ -1,14 +1,14 @@
 <h1 align="center">Olá! Meu nome é Laura Duarte!</h1>
-<p align="center">💻 Estudante de Análise e Desenvolvimento de Sistemas | 🎨 Apaixonada por design, fotos e tecnologia!</p>
+<p align="center">💻 Estudante de Análise e Desenvolvimento de Sistemas | Apaixonada por design, fotos e tecnologia!</p>
 
 ---
 
 ### 🧠 Sobre mim
-- 📍 Moro em Contagem – MG
-- 🎓 Estudante de Sistemas de Informação na PUC Minas
-- 🚀 Interesses: desenvolvimento web, cibersegurança, UI/UX e projetos criativos
-- 🌐 Veja meu portfólio(https://lauraduarte.netlify.app)
-- 🧩 Curiosa, criativa e apaixonada por aprender coisas novas ✨
+- Moro em Contagem – MG
+- Estudante de Sistemas de Informação na PUC Minas
+- Interesses: desenvolvimento web, cibersegurança, UI/UX e projetos criativos
+- Veja meu portfólio(https://lauraduarte.netlify.app)
+- Curiosa, criativa e apaixonada por aprender coisas novas ✨
 - Português/Inglês
 
 ---
@@ -27,7 +27,7 @@
 ![Canva](https://img.shields.io/badge/-Canva-20C4CB?style=for-the-badge&logo=canva&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-> Em breve: Python, C++, e muito mais 💡
+> Em breve: Python, C++, e muito mais!
 ---
 
 ### 📜 Certificados
