@@ -19,8 +19,8 @@
 ![SQL](https://img.shields.io/badge/-MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-20C4CB?style=for-the-badge&logo=canva&logoColor=black)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=black)
+![Canva](https://img.shields.io/badge/-Canva-20C4CB?style=for-the-badge&logo=canva&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 > Em breve: Python, C++, Figma, e muito mais 💡
 
