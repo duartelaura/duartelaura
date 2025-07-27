@@ -35,5 +35,5 @@
 ### 📬 Contato e redes
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauraduarteresende)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/duartelaura)
-[![Instagram](https://img.shields.io/badge/-Instagram292828?style=flat-square&logo=instagram&logoColor=white)](https://https://instagram.com/duuartelaura?utm_source=qr&igshid=OGU0MmVlOWVjOQ%3D%3D)
+[![Instagram](https://img.shields.io/badge/-Instagram-661b8c?style=flat-square&logo=instagram&logoColor=white)](https://https://instagram.com/duuartelaura?utm_source=qr&igshid=OGU0MmVlOWVjOQ%3D%3D)
 
