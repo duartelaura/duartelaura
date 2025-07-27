@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Meu nome é Laura Duarte!</h1>
+<h1 align="center">Olá! Meu nome é Laura Duarte</h1>
 <p align="center">💻 Estudante de Análise e Desenvolvimento de Sistemas | Apaixonada por design, fotos e tecnologia!</p>
 
 ---
