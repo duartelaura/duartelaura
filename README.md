@@ -14,8 +14,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lauraduarteresende" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lauraduarteresende" height="30" width="40" /></a>
-<a href="https://instagram.com/duuartelaura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duuartelaura" height="30" width="40" /></a>
 <a href="https://www.behance.net/lauraduarter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="lauraduarter" height="30" width="40" /></a>
 </p>
 
@@ -61,4 +59,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauraduarteresende)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/duartelaura)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://https://instagram.com/duuartelaura?utm_source=qr&igshid=OGU0MmVlOWVjOQ%3D%3D)
+[![Behance](https://img.shields.io/badge/-Behance-053eff?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/lauraduarter)
+<a href="https://www.behance.net/lauraduarter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="lauraduarter" height="30" width="40" /></a>
+</p>
 
