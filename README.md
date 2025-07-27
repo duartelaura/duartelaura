@@ -12,16 +12,6 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-
-  
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-
-
----
-
 ### 🛠️ Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,6 +19,7 @@
 ![SQL](https://img.shields.io/badge/-MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
 ![C#](https://img.shields.io/badge/-CSharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-474A8A?style=for-the-badge&logo=php&logoColor=white)
+![Unity](https://img.shields.io/badge/-unity-00cccc?style=for-the-badge&logo=unity&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-00758f?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
