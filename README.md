@@ -32,6 +32,7 @@
 
 ### 📜 Certificados
 - [x] **Cisco**: Python Essentials, Cybersecurity, Data Science, Hardware Basics, Learn-a-thon 2024
+- [x] **Rockfeller**: Inglês fluente 2022
 - [x] **UNA**: Auxiliar de Desenho Plástico e Auxiliar de Projetos (160h cada)
 
 📎 *Você pode visualizar os certificados no meu [portfólio](https://lauraduarte.netlify.app)*.
