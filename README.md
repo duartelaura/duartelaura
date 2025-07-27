@@ -1,3 +1,5 @@
+<div align="center">
+  <!-- seus badges aqui -->
 <h1 align="center">Olá! Meu nome é Laura Duarte!</h1>
 <p align="center">💻 Estudante de Análise e Desenvolvimento de Sistemas | 🎨 Apaixonada por design, fotos e tecnologia!</p>
 
@@ -36,5 +38,6 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/duartelaura)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/duuartelaura)
 [![Behance](https://img.shields.io/badge/-Behance-053eff?style=for-the-badge&logo=behance&logoColor=white)](www.behance.net/lauraduarter)
+</div>
 
 
