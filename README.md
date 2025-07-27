@@ -12,19 +12,6 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Laura Duarte</h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por design, fotos e tecnologia!</h3>
-
-- 🌱 I’m currently learning **Cybersecurity and improving my skills in other tech languages**
-
-- 👨‍💻 All of my projects are available at [https://lauraduarte.netlify.app](https://lauraduarte.netlify.app)
-
-- 💬 Ask me about **anything!**
-
-- 📫 How to reach me **duartelauraresende@gmail.com**
-
-- ⚡ Fun fact **I have a camera! I love taking photos and keeping moments in a picture.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lauraduarteresende" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lauraduarteresende" height="30" width="40" /></a>
