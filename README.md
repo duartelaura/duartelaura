@@ -28,6 +28,7 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
+![C#](https://img.shields.io/badge/-CSharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-474A8A?style=for-the-badge&logo=php&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-00758f?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -35,7 +36,7 @@
 ![Canva](https://img.shields.io/badge/-Canva-20C4CB?style=for-the-badge&logo=canva&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-> Em breve: Python, C++, Figma, e muito mais 💡
+> Em breve: Python, C++, e muito mais 💡
 
 ---
 
