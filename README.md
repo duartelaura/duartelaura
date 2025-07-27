@@ -1,10 +1,10 @@
-<h1 align="center">Hey 👋, I'm Laura Resende!</h1>
-<p align="center">💻 Estudante de Sistemas de Informação | 🎨 Apaixonada por tecnologia, design e cibersegurança</p>
+<h1 align="center">Hey! I'm Laura Duarte!</h1>
+<p align="center">💻 Estudante de Análise e Desenvolvimento de Sistemas | 🎨 Apaixonada por design, fotos e tecnologia!</p>
 
 ---
 
 ### 🧠 Sobre mim
-- 📍 Moro em Belo Horizonte – MG
+- 📍 Moro em Contagem – MG
 - 🎓 Estudante de Sistemas de Informação na PUC Minas – Campus Barreiro
 - 🚀 Interesses: desenvolvimento web, cibersegurança, UI/UX e projetos criativos
 - 🌐 Veja meu portfólio: [lauraduarte.netlify.app](https://lauraduarte.netlify.app)
@@ -32,15 +32,8 @@
 
 ---
 
-### 📜 Cursos e certificados
-- Fundamentos de HTML, CSS e JS – Udemy
-- Expressão Visual e Metodologia de Projetos – Una
-- Introdução à Cibersegurança (em andamento)
-
----
-
 ### 📬 Contato e redes
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauraduarteresende)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/duartelaura)
-[![Instagram](https://img.shields.io)]()
+[![Instagram](https://img.shields.io/badge/-Instagram292828?style=flat-square&logo=instagram&logoColor=white)](https://https://instagram.com/duuartelaura?utm_source=qr&igshid=OGU0MmVlOWVjOQ%3D%3D)
 
