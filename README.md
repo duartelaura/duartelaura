@@ -28,6 +28,13 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 > Em breve: Python, C++, e muito mais 💡
+---
+
+### 📜 Certificados
+- [x] **Cisco**: Python Essentials, Cybersecurity, Data Science, Hardware Basics, Learn-a-thon 2024
+- [x] **UNA**: Auxiliar de Desenho Plástico e Auxiliar de Projetos (160h cada)
+
+📎 *Você pode visualizar os certificados no meu [portfólio](https://lauraduarte.netlify.app)*.
 
 ---
 
