@@ -23,7 +23,7 @@
 ![Unity](https://img.shields.io/badge/-Unity-00cccc?style=for-the-badge&logo=unity&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Apache](https://img.shields.io/badge/-Apache-00C7B7?style=for-the-badge&logo=Apache&logoColor=white)
-![Terminal](https://img.shields.io/badge/-GNOME%Terminal-00C7B7?style=for-the-badge&logo=GNOME%Terminal&logoColor=white)
+![Terminal](https://img.shields.io/badge/-Gnometerminal-00C7B7?style=for-the-badge&logo=Gnometerminal&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-00758f?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-20C4CB?style=for-the-badge&logo=canva&logoColor=white)
