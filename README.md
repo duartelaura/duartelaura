@@ -8,7 +8,6 @@
 - Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas
 - Interesses: desenvolvimento web, cibersegurança, UI/UX e projetos criativos
 - Veja meu [portfólio](https://lauraduarte.netlify.app)
-- Curiosa, criativa e apaixonada por aprender coisas novas!
 - Português/Inglês
 
 ---
