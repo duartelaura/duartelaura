@@ -4,8 +4,6 @@
 ---
 
 ### Sobre mim
-## Aaaa
-# Aaaaa
 - Moro em Contagem – MG
 - Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas
 - Interesses: desenvolvimento web, cibersegurança, UI/UX e projetos criativos
